@@ -1,6 +1,6 @@
 Professor gave us those instructions:
 
-"each group to download a total of 10 stocks from YF, as we did in class, from the US stock market, according to the following:
+"each group to download a total of 10 stocks from YF, as we did in class (see the ipynb for chapter 1) from the US stock market, according to the following:
 
 G1: stocks starting with A,B,C; G2: D,E,F; G3: K,L,M; G4: Q,R,S; G5: U,V,W,X.
 Date span: 01-01-2015 until 31-07-2025 included.
